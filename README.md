@@ -13,6 +13,6 @@ Base de Datos: PostgreSQL, MongoDB.
 Herramientas: Git, Slack.
 
 
-📧 Contacto: defagoluis5@gmail.com
+📧 Contacto: federicocurto00@gmail.com
 💼 LinkedIn: 
 
