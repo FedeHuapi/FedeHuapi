@@ -1,6 +1,6 @@
 <br clear="both">
 
-<p align="left">My name is Fede and I'm a Full Stack Developer, from Argentina</p>
+<p align="left"> FrontEnd Developer, from Argentina</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ FrontEnd Developer <br>📚 I'm currently learning Java<br>🎯 Goals => Lead a tech-group</p>
+<p align="left">✨ Im a curious person about the building process of a website and his arquictecture <br>📚 I'm currently learning Java<br>🎯 Goals => Lead a tech-group</p>
 
 ###
 
