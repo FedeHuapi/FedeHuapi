@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since March 2023<br>📚 I'm currently learning Redux, Python, Java<br>🎯 Goals => Lead a tech-group</p>
+<p align="left">✨ FrontEnd Developer <br>📚 I'm currently learning Java<br>🎯 Goals => Lead a tech-group</p>
 
 ###
 
