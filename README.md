@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Im a curious person about the building process of a website and his arquictecture <br>📚 I'm currently learning Java<br>🎯 Goals => Lead a tech-group</p>
+<p align="left">✨ Im a curious person about the building process of a website and his arquictecture <br>📚 I'm currently working on a fullstack project<br>🎯 Goals => Lead a tech-group</p>
 
 ###
 
