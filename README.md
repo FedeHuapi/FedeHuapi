@@ -1,81 +1,87 @@
-<br clear="both">
+<div align="center">
 
-<p align="left"> FrontEnd Developer, from Argentina</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f7b6c,100:1a2634&height=200&section=header&text=Federico%20Curto&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Argentina&descAlignY=58&descSize=18" width="100%"/>
 
-###
+<a href="https://www.linkedin.com/in/federicocurto">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=0F7B6C&center=true&vCenter=true&width=560&lines=Construyo+interfaces+r%C3%A1pidas+y+prolijas;React+%2B+Next.js+%2B+TypeScript;Aprendiendo+FastAPI+para+ir+full+stack;Buscando+mi+primer+rol+en+un+equipo+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Im a curious person about the building process of a website and his arquictecture <br>📚 I'm currently working on a fullstack project<br>🎯 Goals => Lead a tech-group</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
 </div>
 
-###
+<br>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
+## 👋 Sobre mí
 
-###
+- 🧭 Desarrollador Frontend, formado en el bootcamp **Soy Henry**
+- 🌊 Construí **[mawida.ar](https://www.mawida.ar)**, el sitio en producción de una empresa de expediciones en kayak en la Patagonia
+- 👕 Estoy desarrollando una tienda online para una marca de ropa infantil (**FastAPI + PostgreSQL + Next.js**)
+- 📍 Villa Pehuenia, Neuquén, Argentina — disponible para trabajo remoto (UTC-3)
+- 💬 Preguntame sobre React, Next.js, TypeScript o Tailwind
+
+<br>
+
+## 🛠️ Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FedeHuapi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FedeHuapi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=FedeHuapi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=FedeHuapi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FedeHuapi&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,fastapi,postgres,mongodb,python,git,github,vscode&theme=dark" />
 </div>
 
-###
+<br>
 
+## 🚀 Proyectos destacados
+
+<div align="center">
+
+<a href="https://github.com/FedeHuapi/mawidakayaks">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FedeHuapi&repo=mawidakayaks&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/FedeHuapi/mamunis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FedeHuapi&repo=mamunis&theme=tokyonight&hide_border=true" />
+</a>
+<br>
+<a href="https://github.com/FedeHuapi/TuEcommerce-FedeHuapi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FedeHuapi&repo=TuEcommerce-FedeHuapi&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<br>
+
+## 📊 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FedeHuapi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedeHuapi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=FedeHuapi&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FedeHuapi&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+<br>
+
+## 📫 Contacto
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/federicocurto">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:federicocurto00@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/FedeHuapi/portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-0F7B6C?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2634,100:0f7b6c&height=100&section=footer" width="100%"/>
+</div>
