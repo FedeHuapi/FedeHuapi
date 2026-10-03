@@ -12,11 +12,11 @@
 
 ## 👋 Sobre mí
 
-- 🧭 Desarrollador Frontend, formado en el bootcamp **Soy Henry**
+- 🧭 Desarrollador Frontend
 - 🌊 Construí **[mawida.ar](https://www.mawida.ar)**, el sitio en producción de una empresa de expediciones en kayak en la Patagonia
 - 👕 Estoy desarrollando una tienda online para una marca de ropa infantil (**FastAPI + PostgreSQL + Next.js**)
 - 📍 Villa Pehuenia, Neuquén, Argentina — disponible para trabajo remoto (UTC-3)
-- 💬 Preguntame sobre React, Next.js, TypeScript o Tailwind
+
 
 <br>
 
