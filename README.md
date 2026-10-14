@@ -42,6 +42,10 @@
 <a href="https://github.com/FedeHuapi/TuEcommerce-FedeHuapi">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=FedeHuapi&repo=TuEcommerce-FedeHuapi&theme=tokyonight&hide_border=true" />
 </a>
+<br>
+<a href="https://github.com/FedeHuapi/tuorigami">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FedeHuapi&repo=tuorigami&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
